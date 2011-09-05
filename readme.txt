@@ -1,0 +1,3 @@
+This project, when complete, is intended to act as an exporter from Grasshopper (for the 3D modelling program Rhinocerous) to CryEngine3. The input (located on the far-left of the script canvas) should consist of closed Breps, and a filename entered into the text panel titled "Filename". The script should then take the directory the Grasshopper script is in, and output the files required to import the model into CryEngine3 there.
+
+Currently, it outputs a single Collada file in a format Google Sketchup can read.
